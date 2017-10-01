@@ -1,0 +1,9 @@
+{
+  "name": "nodetest",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "latest"
+  }
+}
