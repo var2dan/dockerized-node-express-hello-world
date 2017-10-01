@@ -1,4 +1,4 @@
-# dockerized-node-express-hello-world
+# dockerized nodejs and express simple example
 A basic demo of how to dockerize node express app
 
 Available at docker hub as `var2dan/dockerized-node-express-hello-world`
